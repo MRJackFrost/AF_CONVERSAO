@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Course 
 { 
-    public class Program
+    public class For
     {
         public static void Main(string[] args)
         {
