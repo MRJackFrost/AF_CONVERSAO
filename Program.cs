@@ -14,7 +14,7 @@ namespace Course
 
             while (i <= num)
             { //enquanto i for menor ou igual a num faça
-                Console.WriteLine(i + ", "); //mostre o valor para o usuario
+                Console.WriteLine(i.ToString(CultureInfo.InvariantCulture) + ", "); //mostre o valor para o usuario
                 i++; //adicione mais 1 no valor de i
             }
 
