@@ -15,7 +15,7 @@ namespace Course
                 num = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //solicitando o valor pro usuario
             } while (num < 1 || num > 10); //enquanto o num for menor que 1 OU maior que 10
 
-            Console.WriteLine("Voce digitou o numero: " + num); //mensgem na interface para o usuario
+            Console.WriteLine("Voce digitou o numero: " + num.ToString(CultureInfo.InvariantCulture)); //mensgem na interface para o usuario
 
 
         }
