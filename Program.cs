@@ -7,16 +7,15 @@ namespace Course
     {
         public static void Main(string[] args)
         {
-            double num, i = 1; //definindo as variavels e o valor de i
+            double num, i = 1; //definindo as variaveis e o valor de i
 
-            Console.WriteLine("digite um numero"); //enviando uma informação para a interface do usuario
-            num = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //recevendo um valor do usuario
+            do
+            { //faça
+                Console.WriteLine("digite um numero entre 1 e 10");//mensagem para o usuario
+                num = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //solicitando o valor pro usuario
+            } while (num < 1 || num > 10); //enquanto o num for menor que 1 OU maior que 10
 
-            while (i <= num)
-            { //enquanto i for menor ou igual a num faça
-                Console.WriteLine(i + ", "); //mostre o valor para o usuario
-                i++; //adicione mais 1 no valor de i
-            }
+            Console.WriteLine("Voce digitou o numero: " + num); //mensgem na interface para o usuario
 
 
         }
