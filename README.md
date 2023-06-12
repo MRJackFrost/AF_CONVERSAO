@@ -44,7 +44,7 @@ Este projeto visa converter diversos codigos que foram feitos em C++ para o C#, 
 ✔️ Código Protótipo de Função
 
 ## Distribuição
-[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Classes/blob/master/Program.cs)
+[Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/AF_CONVERSAO)
 
 ## Pré-requisitos ⚠️    
 Um compilador de linguagem C#;
