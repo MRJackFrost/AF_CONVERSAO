@@ -19,8 +19,8 @@ namespace Course
                 Console.WriteLine("ENTRE COM O OPERADOR: +, -, /, *: ");//mensagem na interface do usuario
                 op = char.Parse(Console.ReadLine()); //solicitando o valor do char
                 Console.WriteLine("ENTRE COM OS VALORES"); //mensagem na interface do usuario
-                num1 = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                num2 = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                num1 = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //Pedindo para o usuario inputar o valor de num1
+                num2 = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //Pedindo para o usuario inputar o valor de num2
 
                 switch (op)
                 {
