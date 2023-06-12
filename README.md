@@ -1,11 +1,11 @@
-# Triangulo com Classe
+# Conversão C++ para C#
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
 🔹 Descrição do projeto
 
-🔹 Funcionalidades
+🔹 Conversões
 
 🔹 Distribuição
 
@@ -30,14 +30,18 @@
 🔹 Informações Extras
 
 ## Descrição do projeto
-Este projeto foi visado para calcular a area de dois triangulos(X e Y) e definir qual deles será o maior
+Este projeto visa converter diversos codigos que foram feitos em C++ para o C#, Codigos esses que são
 
-## Funcionalidades ⚙️
-✔️ Conversa com o usuario para receber o valor
+## Conversões ⚙️
+✔️ Código For
 
-✔️ Calcula as areas dos com os valores recebidos
+✔️ Código Calculadora com Switch
 
-✔️ Define e mostra qual o maior triangulo
+✔️ Código Do While
+
+✔️ Código While
+
+✔️ Código Protótipo de Função
 
 ## Distribuição
 [Link para teste da versão disponibilizada.](https://github.com/MRJackFrost/Triangulo_Classes/blob/master/Program.cs)
@@ -48,10 +52,11 @@ Aparelho utilizado para testes.
 - Compilador C# e suas bibliotecas padrões
 
 ## Como rodar a aplicação 
-o arquivo deve ser inserido em um compilador(como o visual studio) ou faça o download do projeto e abra no mesmo compilador
+o arquivo deve ser inserido em um compilador(como o ![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)) ou faça o download do projeto e abra no mesmo compilador
 
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Os primeiros testes em C++ foram efetuados no site [programiz](https://www.programiz.com/cpp-programming/online-compiler/)
+Os testes de conversão em C# foram efetuados no terminal do ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## Banco de Dados 🗂️
 Sem acesso a banco de dados
@@ -71,4 +76,4 @@ MRjackFrost - Bruno
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ 2023 - Triangulo com Classes
+## Copyright ©️ 2023 - Conversão C++ para C#
